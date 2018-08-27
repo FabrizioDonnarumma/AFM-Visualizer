@@ -1,5 +1,5 @@
 AFM Visualizer 1.0.0
-(c) 2018 Fabrizio Donnarumma, Kermit K. Murray
+(c) 2017 Fabrizio Donnarumma, Kermit K. Murray
 
 
 0. INTRODUCTION
@@ -20,10 +20,15 @@ For questions, bugs, comments, please email fabrizio@lsu.edu.
 1a. System Requirements:
 -----------------------
 
-AFM Visualizer is developed using National Instrument LabVIEW (LV) and it requires LabVIEW 2016 runtime engine, NI Vision Common Resources 2016 and NI Vision Runtime 2016, which can all be obtained from NI. The windows installer already includes the runtime needed for Windows 10/8.1/7 (SP1) 32-bit/7 (SP1) 64-bit/ Server 2012 R2 64-bit/Server 2008 R2 64-bit. 
-The installer is available only in 32-bit version. The standalone is compiled using a 32-bit LV version. A 64-bit version can be compiled opening the source files with a LV 64-bit.
-MAC OS user should be able to use the software starting from the source files. Please visit www.ni.com for more info on how to run LabVIEW on a MAC OS system.
+AFM Visualizer is developed using National Instrument LabVIEW (LV) and it requires LabVIEW 2016 runtime engine, 
+NI Vision Common Resources 2016 and NI Vision Runtime 2016, which can all be obtained from NI. The windows installer 
+already includes the runtime needed for Windows 10/8.1/7 (SP1) 32-bit/7 (SP1) 64-bit/ Server 2012 R2 64-bit/Server 2008 R2 64-bit. 
+The installer is available only in 32-bit version. The standalone is compiled using a 32-bit LV version. A 64-bit version can 
+be compiled opening the source files with a LV 64-bit.
+MAC OS user should be able to use the software starting from the source files. Please visit www.ni.com for more info on how to 
+run LabVIEW on a MAC OS system.
 Adobe Reader or a compatible web browser must be installed in order to open the User Guide.
+
 
 1b. Setup
 ----------------
@@ -48,8 +53,3 @@ AFM Visualizer authors with your bugs and comments at"
 	Fabrizio Donnarumma <fabrizio@lsu.edu>
  
  You can also request the source code for AFM Visualizer by emailing us at the above address.
- 
-
- 
- 
-
